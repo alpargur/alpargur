@@ -13,7 +13,7 @@
 
 - He is looking forward for the proper heat wave to get himself a *mango + mint smoothie*. 🤤
 
-<br><br>
+<br>
 
 <div id="badges">
   </a>
