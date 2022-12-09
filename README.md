@@ -1,7 +1,7 @@
 # alpar
 ### Fun facts about Alpar
 
-- Currenly working at [Vaillant Group](https://www.vaillant-group.com/), where data meets heating. Building smarthome technologies with smarter people.
+- Currenly working at [Vaillant Group](https://www.vaillant-group.com/), where data meets heating. On a mission for building smarthome technologies with smarter people.
 
 - Passionate about building tools and products for everyday life that increase efficiency and bring out joy. 
 
