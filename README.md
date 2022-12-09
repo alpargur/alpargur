@@ -21,19 +21,19 @@
   <a href="https://alpar.studio">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Spotify" style="padding-right:5px"/>
   </a>
-    <a href="your-youtube-URL">
+    <a href="yhttps://open.spotify.com/artist/0a8aL1JyQRH6BGjgSDsZnZ?si=jnBYhLAoQ1K56SOCDxOwMg">
     <img src="https://img.shields.io/badge/Spotify-1ED1560?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="padding-right:5px"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/alpargur/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="padding-right:5px"/>
   </a>  
-  <a href="your-youtube-URL">
+  <a href="https://medium.com/@alpargur">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="padding-right:5px"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.instagram.com/alpargur/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="padding-right:5px"/>
 
-  <img src="https://komarev.com/ghpvc/?username=alpargur&style=flat-square&color=yellow" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=alpargur&style=flat-square&color=yellow" alt="Profile Vies" style="padding-left:30px"/>
 </div>
 
 <br><br>
