@@ -15,7 +15,7 @@
 
 <br>
 
-<div id="badges">
+<div id="badges" align="center">
   </a>
   <a href="https://alpar.studio">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Spotify" style="padding-right:5px;"/>
@@ -35,10 +35,15 @@
   <img src="https://komarev.com/ghpvc/?username=alpargur&style=flat-square&color=yellow" alt="Profile Views"/>
 </div>
 
-<br><br>
+<br>
+
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alpargur&theme=violet-punch&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpargur&theme=midnight-purple&show_icons=true)
+
+</div>
 <br><br>
 
 ### Languages & Tools
@@ -83,6 +88,3 @@
     <img align="left" alt="LaTex" width="30px" style="padding-right:10px; padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
 </div>
 
-<br><br>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpargur&layout=compact&theme=vision-friendly-dark)](https://cdn.jsdelivr.net/gh/anuraghazra/github-readme-stats) -->
