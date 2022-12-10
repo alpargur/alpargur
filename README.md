@@ -5,16 +5,16 @@
     <img src="https://img.shields.io/badge/website-0D1117?style=for-the-badge&logo=About.me&logoColor=white" alt="me-website"/>
   </a>
     <a href="https://open.spotify.com/artist/0a8aL1JyQRH6BGjgSDsZnZ?si=jnBYhLAoQ1K56SOCDxOwMg" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify"/>
+    <img src="https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=black?labelColor=black" alt="Spotify"/>
   </a>
   <a href="https://www.linkedin.com/in/alpargur/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white?labelColor=white" alt="LinkedIn"/>
   </a>  
   <a href="https://medium.com/@alpargur" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white?labelColor=white" alt="Medium"/>
   </a>
   <a href="https://www.instagram.com/alpargur/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4365F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </p>
 
 
