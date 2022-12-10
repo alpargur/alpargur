@@ -49,7 +49,7 @@
 <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40"/></a> -->
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"/></a>
 <!-- <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"/></a> -->
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40"/></a>
 <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"/></a>
 <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40"/></a>
 <!-- <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40"/></a>
