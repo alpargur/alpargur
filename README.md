@@ -2,19 +2,19 @@
 
 <div id="badges" align="center">
   </a>
-  <a href="https://alpar.studio">
+  <a href="https://alpar.studio" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Spotify" style="padding-right:5px;"/>
   </a>
-    <a href="https://open.spotify.com/artist/0a8aL1JyQRH6BGjgSDsZnZ?si=jnBYhLAoQ1K56SOCDxOwMg">
+    <a href="https://open.spotify.com/artist/0a8aL1JyQRH6BGjgSDsZnZ?si=jnBYhLAoQ1K56SOCDxOwMg" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED1560?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="padding-right:5px;"/>
   </a>
-  <a href="https://www.linkedin.com/in/alpargur/">
+  <a href="https://www.linkedin.com/in/alpargur/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="padding-right:5px;"/>
   </a>  
-  <a href="https://medium.com/@alpargur">
+  <a href="https://medium.com/@alpargur" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="padding-right:5px;"/>
   </a>
-  <a href="https://www.instagram.com/alpargur/">
+  <a href="https://www.instagram.com/alpargur/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4365F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="padding-right:5px;"/>
 </div>
 
