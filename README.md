@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://alpar.studio" target="_blank">
-    <img src="https://img.shields.io/badge/website-DB5A6B?style=for-the-badge&logo=About.me&logoColor=white" alt="me-website"/>
+    <img src="https://img.shields.io/badge/website-0D1117?style=for-the-badge&logo=About.me&logoColor=white" alt="me-website"/>
   </a>
     <a href="https://open.spotify.com/artist/0a8aL1JyQRH6BGjgSDsZnZ?si=jnBYhLAoQ1K56SOCDxOwMg" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=black?color=black" alt="Spotify"/>
+    <img src="https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=black?" alt="Spotify"/>
   </a>
   <a href="https://www.linkedin.com/in/alpargur/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white?labelColor=white" alt="LinkedIn"/>
