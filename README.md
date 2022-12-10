@@ -1,4 +1,4 @@
-# alpar <img src="https://komarev.com/ghpvc/?username=alpargur&style=flat-square&color=blueviolet" alt="Profile Views"/>
+# alpar <img src="https://komarev.com/ghpvc/?username=alpargur&style=social&color=blueviolet" alt="Profile Views"/>
 
 <p align="center">
   <a href="https://alpar.studio" target="_blank">
