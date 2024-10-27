@@ -28,9 +28,7 @@
 
 - He prefers *QWERTY* over *QWERTZ* layout.
 
-- Recently realized that he is not a fan of `pom.xml`. No bueno.
-
-- He is looking forward for the proper heat wave to get himself a mango-mint smoothie. 🤤
+- He dislikes `pom.xml`. No bueno.
 
 <br><br>
 
