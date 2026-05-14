@@ -24,11 +24,11 @@
 
 - Passionate about building tools and products for everyday life that increase efficiency and bring out joy. 
 
-- He would rather to spend 2 hours to automate a task which can be done in 1 hour manually.
+- He would rather to spend 2 hours to automate a task which can be done manually in 1 hour.
 
 - He prefers *QWERTY* over *QWERTZ* layout.
 
-- He dislikes `pom.xml`. No bueno.
+- He dislikes `.xml`. No bueno.
 
 <br><br>
 
