@@ -28,7 +28,7 @@
 
 - He prefers *QWERTY* over *QWERTZ* layout.
 
-- He dislikes `.xml`. No bueno.
+- He dislikes `.xml` - no bueno.
 
 <br><br>
 
